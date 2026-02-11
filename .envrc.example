@@ -1,0 +1,6 @@
+# Load .env file if exists
+dotenv_if_exists
+
+# AWS
+export AWS_PROFILE=your-profile
+export AWS_DEFAULT_REGION=ap-northeast-1
